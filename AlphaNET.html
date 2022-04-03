@@ -1,0 +1,102 @@
+<!DOCTYPE html>  
+  
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">  
+<head>  
+    <meta charset="utf-8" />  
+    <title>AlphaNET Enrollment</title>  
+    <!--Styles from Bootstrap-->  
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">  
+</head>  
+<body>  
+    <!--<header>Traning Details</header>-->  
+    <div id="header"></div>  
+    <main class="container">  
+        <table class="table">  
+        <thead>  
+            <tr>  
+                <th>  
+                    First Name  
+                </th>  
+                <th>  
+                    Last Name  
+                </th>  
+                <th>  
+                    CNP  
+                </th>
+                <th>  
+                    ID Card Serial  
+                </th>  
+                <th>  
+                    ID Card Number  
+                </th>  
+                <th>  
+                    Address  
+                </th>
+                <th>  
+                    Birth Date  
+                </th>  
+                <th>  
+                    Issuance Date  
+                </th>  
+                <th>  
+                    Expiry Date  
+                </th>
+                <th></th>  
+            </tr>  
+        </thead>  
+        <tbody class="tbody">  
+        </tbody>  
+    </table>  
+  
+    <div align="vertical">  
+       <!--Get : Query string /url  
+        Post : Hidden fields-->  
+        <form method="get" id="form">  
+            <label for="firstName">First Name:</label>  
+            <input id="firstName" type="text" width="20" required/> <br />
+
+            <label for="lastName">Last Name:</label>  
+            <input id="lastName" type="text" width="20" required/> <br />  
+
+            <label for="cnp">CNP        :</label>  
+            <input id="cnp" type="number" width="20" required/> <br />
+
+            <label>ID Card Serial:</label>  
+            <input id="idCardSerial" type="text" width="20" required/> <br />
+
+            <label>ID Card Number:</label>  
+            <input id="idCardNumber" type="number" width="20" required/> <br />
+
+            <label>Address:    </label>  
+            <input id="address" type="text" width="10" required/> <br />
+      
+            <label>Birth Date:</label>  
+            <input id="birthDate" type="date" width="20"  data-provide="datepicker" /> <br />  
+      
+            <label>Issuance Date:</label>  
+            <input id="issuanceDate" type="date" width="20" data-provide="datepicker"/><br />
+            
+            <label>Expiration Date:</label>  
+            <input id="expiryDate" type="date" width="20" data-provide="datepicker"/><br />
+            
+            <label for="cardID">Upload ID Card:</label>
+            <input type="file" id="cardID" name="cardID" accept=".pdf, .jpg, .jpeg"><br />
+  
+            <input type="submit" value="Submit"/>  
+              
+        </form>  
+    </div>  
+  
+    <div id="footer"></div>  
+    <!--<footer>End of Tranings Details</footer>-->  
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>  
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>  
+  
+    <!--JQuery-->  
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  
+  
+    <script type="text/javascript" charset="utf8" src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.3/jstree.min.js"></script>  
+    <script src="main.js"></script>
+    </main>  
+</body>  
+</html>

@@ -1,0 +1,14 @@
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\bin\Debug\netcoreapp2.1\AlphaNET.deps.json
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\bin\Debug\netcoreapp2.1\AlphaNET.runtimeconfig.json
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\bin\Debug\netcoreapp2.1\AlphaNET.runtimeconfig.dev.json
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\bin\Debug\netcoreapp2.1\AlphaNET.dll
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\obj\Debug\netcoreapp2.1\AlphaNET.csprojAssemblyReference.cache
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\obj\Debug\netcoreapp2.1\AlphaNET.csproj.CoreCompileInputs.cache
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\obj\Debug\netcoreapp2.1\AlphaNET.RazorAssemblyInfo.cache
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\obj\Debug\netcoreapp2.1\AlphaNET.RazorAssemblyInfo.cs
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\obj\Debug\netcoreapp2.1\AlphaNET.AssemblyInfoInputs.cache
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\obj\Debug\netcoreapp2.1\AlphaNET.AssemblyInfo.cs
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\obj\Debug\netcoreapp2.1\AlphaNET.RazorTargetAssemblyInfo.cache
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\bin\Debug\netcoreapp2.1\AlphaNET.pdb
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\obj\Debug\netcoreapp2.1\AlphaNET.dll
+C:\Users\ionut.ciobanu\source\repos\AlphaNET\AlphaNET\obj\Debug\netcoreapp2.1\AlphaNET.pdb
